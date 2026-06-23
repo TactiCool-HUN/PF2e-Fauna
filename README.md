@@ -59,10 +59,13 @@ Once the round ends (everyone ran out of guesses and/or passed) reveal the creat
 - Exact hit: 10 points
 - Adjacent hit: 3 points (range of 3)
 > What counts as adjacent: if the correct level is ``17``, then the "adjacent" levels would be ``14-16`` and ``18-20``.
-> The level range is -1 to 25.
+>
+> The full pf2e level range is -1 to 25.
 ### Traits
 (can  guess __multiple__ per player per round)
-> Writers notes: these traits are partially organized for what worked well for my newbie-ish play group, you might want to move around stuff like archon, or mummy, etc. Basically the points should reflect: rarity, and how easy it is to guess on a creature.
+> Writers notes: these traits are partially organized for what worked well for my newbie-ish play group, you might want to move around stuff like archon, or mummy, etc.
+>
+> Basically the points should reflect: rarity, and how easy it is to guess on a creature.
 - 5 point traits: Aberration, Amphibious, Animal, Aquatic, Beast, Celestial, Construct, Dragon, Dinosaur, Elemental, Fey, Fiend, Fungus, Incorporeal, Ooze, Plant, Skeleton, Swarm, Troll, Undead
 - 7 point traits: Acid, Air, Angel, Cold, Daemon, Demon, Devil, Earth, Electricity, Fire, Genie, Ghost, Ghoul, Giant, Holy, Metal, Mindless, Monitor, Mummy, Nymph, Poison, Spirit, Sprite, Unholy, Water, Wood
 - 9 point traits: Arcane, Archon, Astral, Darvakka, Divine, Dream, Ethereal, Golem, Gremlin, Mutant, Mythic, Occult, Phantom, Primal, Protean, Psychopomp, Qlippoth, Sahkil, Tane, Time
@@ -74,10 +77,11 @@ Once the round ends (everyone ran out of guesses and/or passed) reveal the creat
 - Unique (10 points)
 ### Special Speeds
 (can  guess __multiple__ per player per round)
-Burrow: 5 points
-Climb: 3 points
-Fly: 4 points
-Swim: 4 points
+> Writer's notes: this is my newest addition and the point values might be a bit too high, only played with speeds once as of the writing of this.
+- Burrow: 4 points
+- Climb: 3 points
+- Fly: 3 points
+- Swim: 4 points
 ### Plane of Origin
 (can only guess __one__ per player per round)
 The Material Plane cannot be guessed.
